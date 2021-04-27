@@ -11,5 +11,5 @@ for i in range(len(encoded)):
 	flag.append(chr(ord(encoded[i])>>8))
 	flag.append(chr((ord(encoded[i]))-((ord(encoded[i])>>8)<<8)))
 
-print(''.join(flag))
+print(''.join(flag)) # picoCTF{16_bits_inst34d_of_8_e141a0f7}
 ```
