@@ -1,6 +1,7 @@
 # Stonks
 
-> Solution: When you [connect](./connect) to the server, it prompts you like this.
+> Solution: When you [connect](./connect) to the server, it prompts you:
+
 ```
 Welcome back to the trading app!
 
@@ -9,6 +10,7 @@ What would you like to do?
 2) View my portfolio
 
 ```
+
 
 ```c
 #include <stdlib.h>
