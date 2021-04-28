@@ -1,8 +1,9 @@
-## picoctf-writeups
+# picoCTF Writeups
+by Lakshaya
 
 > Writeups for picoCTF 2021
 
-# Links
+## Writeups
 
 [00_obidient_cat](./00_obidient_cat/)
 
