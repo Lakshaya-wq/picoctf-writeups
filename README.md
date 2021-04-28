@@ -1,7 +1,6 @@
 # picoCTF Writeups
-by Lakshaya
 
-> Writeups for picoCTF 2021
+> Writeups for picoCTF 2021, by Lakshaya
 
 ## Writeups
 
